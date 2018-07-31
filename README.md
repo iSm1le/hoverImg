@@ -1,6 +1,6 @@
 # hoverImg
 
-[![Travis Ci build status](https://api.travis-ci.org/iSm1le/hoverImg.svg?branch=master&maxAge=3600)](https://travis-ci.org/iSm1le/hoverImg)
+[![Travis Ci build status](https://api.travis-ci.com/iSm1le/hoverImg.svg?branch=master&maxAge=3600)](https://travis-ci.com/iSm1le/hoverImg)
 [![Dependencies](https://david-dm.org/iSm1le/hoverImg/status.svg?maxAge=3600)](https://david-dm.org/iSm1le/hoverImg)
 
 ## Contributing
