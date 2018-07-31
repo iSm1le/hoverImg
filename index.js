@@ -13,7 +13,6 @@ let isShowingImage = false;
 const imgs = document.getElementsByClassName(selector);
 
 function showImage(img) {
-  iNode.style.display = 'block';
   if (isShowingImage) {
     mNode.style.display = 'none';
     isShowingImage = false;
